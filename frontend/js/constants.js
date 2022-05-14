@@ -1,5 +1,5 @@
-const contractAddress = "0xe485dA8B631809a968Ad6e2762D27523CB4fAAbC"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xF18708db090Daebbd47F5e9C13119BB07CC496dA"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the SKULLEROK NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
